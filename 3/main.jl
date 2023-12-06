@@ -127,6 +127,6 @@ end
         out = issandwiched(star)
         out.bool && (sum2[] += out.prod)
     end
-    println("Part 2: $(sum2[])")
+    println("Part 2: $(sum2[])") # 81997870
 end
 
